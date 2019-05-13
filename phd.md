@@ -1,0 +1,1 @@
+The phd.py program aids to convert a picture to hand-drawing effect.
